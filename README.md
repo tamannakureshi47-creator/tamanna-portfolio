@@ -1,40 +1,47 @@
-# Tamanna Kureshi — React + Tailwind CSS Portfolio
+#  Tamanna Kureshi — Portfolio
 
-A responsive developer portfolio built with React, Vite, and Tailwind CSS. Content is based on the supplied resume.
+### Full Stack Developer | Building Clean & Practical Web Solutions
 
-## Run locally
+Welcome to my personal portfolio! 
 
-1. Install Node.js (LTS).
-2. Extract this folder and open it in VS Code.
-3. Open the terminal in the project folder and run:
+I am a BCA graduate currently learning Full Stack Development at Felix IT. I enjoy creating modern, responsive, and user-friendly web applications while continuously improving my technical skills.
 
-   ```bash
-   npm install
-   npm run dev
-   ```
+##  About Me
 
-4. Open the local URL shown in the terminal.
+-  BCA — Saurashtra University
+-  Learning Full Stack Development
+-  Exploring the MERN Stack
+-  Interested in AI tools and workflow automation
+-  Passionate about learning, building, and growing as a developer
 
-## Production build
+##  Tech Stack
 
-```bash
-npm run build
-npm run preview
-```
+**Frontend:** HTML, CSS, JavaScript, React.js
 
-## Tailwind CSS setup
+**Styling:** Bootstrap, Tailwind CSS
 
-This project uses Tailwind CSS v3 with `tailwind.config.js` and `postcss.config.js`. Most page layout, spacing, typography, colors, and responsive styling are Tailwind utility classes. `src/styles.css` contains Tailwind directives and a small amount of custom CSS for the miniature project-preview illustrations.
+**Backend:** Node.js, Express.js
 
-## Before publishing
+**Database:** MongoDB, SQL
 
-- Add your actual GitHub and LinkedIn profile URLs.
-- Add live URLs for projects if available.
-- Complete profile URLs were not present in the supplied resume, so none have been guessed.
+**Tools:** Git, GitHub, VS Code, Figma
 
-## Stack
+##  Portfolio Highlights
 
-- React
-- Vite
-- Tailwind CSS
-- Lucide React icons
+- Clean and modern UI design
+- Responsive website layout
+- About Me and technical skills
+- Selected projects and previews
+- Education and certificates
+- Contact and social media links
+
+## 🌐 Connect With Me
+
+- **GitHub:** [tamannakureshi47-creator](https://github.com/tamannakureshi47-creator)
+- **LinkedIn:** [Tamanna Kureshi](https://www.linkedin.com/in/tamanna-kureshi-58a90a303/)
+
+## 🎯 My Goal
+
+To build meaningful web applications, strengthen my development skills, and grow as a Full Stack Developer.
+
+
